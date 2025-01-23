@@ -1,2 +1,2 @@
 # Python_BMI_Calculator
-In this project, will worked through how to create a BMI Calculator in Python
+In this project, we worked through how to create a BMI Calculator in Python
